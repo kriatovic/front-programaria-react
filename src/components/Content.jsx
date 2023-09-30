@@ -94,7 +94,7 @@ export function Content() {
         </div>
       </div>
       <div >
-        <h2 className={styles.projectsTitle}>Cadastre uma rainha tech:</h2>
+        <h2 className={styles.projectsTitle}>Cadastre uma rainha preta:</h2>
         <form  className={styles.form} onSubmit={handleCreateMessage}>
           <input 
             onChange={handleInputValueNome} 
